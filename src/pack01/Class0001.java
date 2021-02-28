@@ -5,5 +5,6 @@ public class Class0001 {
 		// Hello everyone
 		// Welcome to Sessions
 		// Thank you for joining
+		// Here is a new commit
 	}
 }
