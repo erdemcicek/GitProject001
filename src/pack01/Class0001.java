@@ -11,5 +11,6 @@ public class Class0001 {
 
 		// Here is new from remote
 		// brand new
+		// today is Tuesday
 	}
 }
