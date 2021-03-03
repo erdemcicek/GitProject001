@@ -18,6 +18,7 @@ public class Class0001 {
 
 		// Here is a brand new issue from remote
 		// Here is another remote change
+		// New feature branch has been created
 
 	}
 }
