@@ -3,7 +3,7 @@ package pack01;
 public class Class0001 {
 	public static void main(String[] args) {
 		// Hello everyone
-		// Welcome to Sessions
+		// Welcome to Sessions  // Thanks for joining again 30 April
 		// Thank you for joining
 		// Here is a new commit
 
