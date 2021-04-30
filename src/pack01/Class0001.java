@@ -5,7 +5,7 @@ public class Class0001 {
 		// Hello everyone
 		// Welcome to Sessions  // Thanks for joining again 30 April
 		// Thank you for joining
-		// Here is a new commit
+		// Here is a new commit // Here is a new commit on 30 April on local
 
 		// Something different
 
