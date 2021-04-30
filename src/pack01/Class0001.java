@@ -9,6 +9,8 @@ public class Class0001 {
 
 		// Something different
 		// Here is an issue on local on 30 April on newfeature branch
+		
+		// Here is remote change on 30 April
 
 		// Here is new from remote
 		// brand new
