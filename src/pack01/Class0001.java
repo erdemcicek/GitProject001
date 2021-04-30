@@ -8,6 +8,7 @@ public class Class0001 {
 		// Here is a new commit // Here is a new commit on 30 April on local
 
 		// Something different
+		// Here is an issue on local on 30 April on newfeature branch
 
 		// Here is new from remote
 		// brand new
