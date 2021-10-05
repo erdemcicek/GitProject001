@@ -19,6 +19,10 @@ public class Class0001 {
 
 		// Here is a brand new issue from remote
 		// Here is another remote change
+		dummyMethod();
 
+	}
+	private static void dummyMethod() {
+		System.out.println("dummy");
 	}
 }
